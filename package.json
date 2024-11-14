@@ -4,10 +4,11 @@
   "private": true,
   "homepage": "https://EKTAMULKALWAR.github.io/assign-one",
   "dependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^5.11.0",
-    "@mui/material": "^5.11.8",
+    "@mui/material": "^5.16.7",
+    "@mui/system": "^6.1.7",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -47,5 +48,10 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
     "gh-pages": "^5.0.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
